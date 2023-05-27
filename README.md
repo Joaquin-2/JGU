@@ -1,3 +1,6 @@
+### -----------------------------------<br/>
+If you don't trust the exe you can read and edit the source code in source.ahk by downloading auto hot key from https://www.autohotkey.com/ 
+
 # Joaquin's Guarding Utilites
 ## The best in lego game guarding
 
